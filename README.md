@@ -8,7 +8,7 @@ Vipin Venugopal, Justin Joseph, M. Vipin Das, Malaya Kumar Nath, "An EfficientNe
 # To run EMST Demo 
 1. Download the Demo_EMST.zip file.
 2. Unzip the file and give correct path location for test images.
-3. The file contains (a) EMST_Pretarained_Model.m (b) Sig_Tran_Cross_Over Function.m (c) Demo_EMST.m (d) Test images (e) Ground-truth images
+3. The file contains (a) EMST_Pretarained_Model.m (b) Sig_Tran_Cross_Over Function.m (c) Demo_EMST_mlx.mlx (d) Demo_EMST.m (e) Test images (f) Ground-truth images
 
 
 # To train the modified EfficientNet regressor
