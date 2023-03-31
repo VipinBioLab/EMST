@@ -5,6 +5,12 @@ If any data or code is used, please cite our paper as,
 
 Vipin Venugopal, Justin Joseph, M. Vipin Das, Malaya Kumar Nath, "An EfficientNet-based modified sigmoid transform for enhancing dermatological macro-images of melanoma and nevi skin lesions", Computer Methods and Programs in Biomedicine,Volume 222, 2022, 106935, https://doi.org/10.1016/j.cmpb.2022.106935.
 
+# To run EMST Demo 
+1. Download the Demo_EMST.zip file.
+2. Unzip the file and give correct path location for test images.
+3. The file contains (a) EMST_Pretarained_Model.m (b) Sig_Tran_Cross_Over Function.m (c) Demo_EMST.m (d) Test images (e) Ground-truth images
+
+
 # To run the Matlab code
 1. Use the V-component of the macro-images in HSV color space and the corresponding cross-over value given in the .csv files named Train and Test.
 2. Aug1 to Aug9 folder contains the augmented versions of the V-component.
