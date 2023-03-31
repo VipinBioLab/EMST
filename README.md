@@ -11,7 +11,7 @@ Vipin Venugopal, Justin Joseph, M. Vipin Das, Malaya Kumar Nath, "An EfficientNe
 3. The file contains (a) EMST_Pretarained_Model.m (b) Sig_Tran_Cross_Over Function.m (c) Demo_EMST.m (d) Test images (e) Ground-truth images
 
 
-# To run the Matlab code
+# To train the modified EfficientNet regressor
 1. Use the V-component of the macro-images in HSV color space and the corresponding cross-over value given in the .csv files named Train and Test.
 2. Aug1 to Aug9 folder contains the augmented versions of the V-component.
 3. To download the dataset fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeTJQxN80A3tb8UzWX5aJrXtcCLCFoOzLRLI073H31MVnlcTw/viewform) and contact us and we can provide a link to all the images.
